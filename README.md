@@ -3,7 +3,7 @@ title: 'The history of football euros'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the seventeen euros held since 1960'
 modified: '2024-07-10'
-files: ['matches.csv','by_country.csv','euros_summary.csv','euro_winners.csv','runner_ups.csv','win_pct_coun.csv']
+files: ['matches.csv','by_country.csv','euros_summary.csv','euro_winners.csv','runner_ups.csv','win_rate_country.csv']
 group: 'Sports'
 ---
 
@@ -37,7 +37,7 @@ group: 'Sports'
 ### Winning rates of countries in European Championships*
 <FlatUiTable
   data={{
-    url: 'win_pct_coun.csv'    
+    url: 'win_rate_country.csv'    
   }}
 />
 *NOTE: Only wins in regular time are taken into consideration. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
