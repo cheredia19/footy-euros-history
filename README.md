@@ -3,23 +3,13 @@ title: 'The history of football euros'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the seventeen euros held since 1960'
 modified: '2024-07-10'
-files: ['']
+files: ['euros_summary.csv']
 group: 'Sports'
 ---
 
-### Independendence days per country
+### Summary of all Euro competitions
 <FlatUiTable
   data={{
-    url: 'countries_date.csv'    
+    url: 'euros_summary.csv'    
   }}
-/>
-
-### Number of independences per day
-<PlotlyBarChart
-  data={{
-    url: 'per_day.csv'
-  }}
-  title="January 1 is the day with the most country independences"
-  xAxis="date"
-  yAxis="number"
 />
