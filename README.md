@@ -20,6 +20,6 @@ group: 'Sports'
     url: 'euro_winners.csv'
   }}
   title="Spain and Germany are the only countries with three Euros each"
-  xAxis="date"
-  yAxis="number"
+  xAxis="winner"
+  yAxis="championships"
 />
