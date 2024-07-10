@@ -48,7 +48,16 @@ group: 'Sports'
   }}
 />
 
-### All matches history of the European Championships
+### Winning rates of coutries in European Championships
+<PlotlyBarChart
+  data={{
+    url: 'winners_country.csv'
+  }}
+  xAxis="winner"
+  yAxis="winning_pct"
+/>
+
+### All matches of the European Championships
 <FlatUiTable
   data={{
     url: 'all_matches.csv'    
