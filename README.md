@@ -41,6 +41,13 @@ group: 'Sports'
   }}
 />
 
+### Rate of matches won by country
+<FlatUiTable
+  data={{
+    url: 'winner_country.csv'    
+  }}
+/>
+
 ### All matches history of the European Championships
 <FlatUiTable
   data={{
