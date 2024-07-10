@@ -23,3 +23,13 @@ group: 'Sports'
   xAxis="winner"
   yAxis="championships"
 />
+
+### Runner-ups of Euro competitions
+<PlotlyBarChart
+  data={{
+    url: 'euro_runner_ups.csv'
+  }}
+  title="The USSR is the only country with three runner-up finishes"
+  xAxis="runner_up"
+  yAxis="number"
+/>
