@@ -54,7 +54,7 @@ group: 'Sports'
 ### Participations by country in the history of the European Championships
 <FlatUiTable
   data={{
-    url: 'by_country.csv'    
+    url: 'per_countries.csv'    
   }}
 />
 
