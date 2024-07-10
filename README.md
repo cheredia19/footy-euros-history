@@ -3,7 +3,7 @@ title: 'The history of football euros'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the seventeen euros held since 1960'
 modified: '2024-07-10'
-files: ['euros_summary.csv','euro_winners.csv','runner_ups.csv','participations_country.csv']
+files: ['all_matches.csv','euros_summary.csv','euro_winners.csv','participations_country.csv','runner_ups.csv','winners_country.csv']
 group: 'Sports'
 ---
 
@@ -44,7 +44,7 @@ group: 'Sports'
 ### Rate of matches won by country
 <FlatUiTable
   data={{
-    url: 'winner_country.csv'    
+    url: 'winners_country.csv'    
   }}
 />
 
