@@ -39,7 +39,7 @@ group: 'Sports'
   data={{
     url: 'win_pct_country.csv'    
   }}
-/
+/>
 *Only wins in regular time are taken into consideration. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
 
 ### Participations by country in the history of the European Championships
