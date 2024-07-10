@@ -40,3 +40,10 @@ group: 'Sports'
     url: 'participations_country.csv'    
   }}
 />
+
+### All matches history of the European Championships
+<FlatUiTable
+  data={{
+    url: 'all_matches.csv'    
+  }}
+/>
