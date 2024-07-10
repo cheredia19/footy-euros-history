@@ -34,12 +34,13 @@ group: 'Sports'
   yAxis="number"
 />
 
-### Winning rates of countries in European Championships
+### Winning rates of countries in European Championships*
 <FlatUiTable
   data={{
     url: 'win_pct_country.csv'    
   }}
-/>
+/
+**Only wins in regular time. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
 
 ### Participations by country in the history of the European Championships
 <FlatUiTable
