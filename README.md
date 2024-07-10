@@ -3,7 +3,7 @@ title: 'The history of football euros'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the seventeen euros held since 1960'
 modified: '2024-07-10'
-files: ['euros_summary.csv','euro_winners.csv']
+files: ['euros_summary.csv','euro_winners.csv','runner_ups.csv']
 group: 'Sports'
 ---
 
@@ -27,7 +27,7 @@ group: 'Sports'
 ### Runner-ups of Euro competitions
 <PlotlyBarChart
   data={{
-    url: 'euro_runner_ups.csv'
+    url: 'runner_ups.csv'
   }}
   title="The USSR is the only country with three runner-up finishes"
   xAxis="runner_up"
