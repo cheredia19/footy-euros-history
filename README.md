@@ -50,6 +50,14 @@ group: 'Sports'
   yAxis="winning_pct"
 />
 
+
+### Participations by country in the history of the European Championships
+<FlatUiTable
+  data={{
+    url: 'by_country.csv'    
+  }}
+/>
+
 ### All matches of the European Championships
 <FlatUiTable
   data={{
