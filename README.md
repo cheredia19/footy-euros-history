@@ -55,3 +55,10 @@ group: 'Sports'
     url: 'matches.csv'    
   }}
 />
+
+### Home/away ratio in European Championships matches
+<FlatUiTable
+  data={{
+    url: 'home_away_ratio.csv'    
+  }}
+/>
