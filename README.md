@@ -3,7 +3,7 @@ title: 'The history of football euros'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the seventeen euros held since 1960'
 modified: '2024-07-10'
-files: ['euro_countries.csv','euros_summary.csv','euro_winners.csv','matches.csv','runner_ups.csv','win_rate_country.csv']
+files: ['euro_countries.csv','euros_summary.csv','countries_euros.csv','euro_winners.csv','matches.csv','runner_ups.csv','win_rate_country.csv']
 group: 'Sports'
 ---
 
@@ -45,7 +45,7 @@ group: 'Sports'
 ### Participations by country in the history of the European Championships
 <FlatUiTable
   data={{
-    url: 'euro_countries.csv'    
+    url: 'countries_euros.csv'    
   }}
 />
 
