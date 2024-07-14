@@ -93,8 +93,14 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
 
 ### Vega chart*
 
-### Goals by match
-
-### Attendance by match
+### Attendance by match since Euro 1960
+<PlotlyBarChart
+  data={{
+    url: 'matches_attendance.csv'
+  }}
+  title=""
+  xAxis="match"
+  yAxis="attendance"
+/>
 
 ### Attendance by rate (check 1992)
