@@ -98,7 +98,7 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
   data={{
     url: 'matches_attendance.csv'
   }}
-  title=""
+  title="Spain vs. the USSR, held on June 21, 1964, on Spanish soil, got the highest attendance ever"
   xAxis="match"
   yAxis="attendance"
 />
