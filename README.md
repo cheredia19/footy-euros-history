@@ -73,10 +73,11 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
   data={{
     url: 'goals_by_match.csv'
   }}
-  title="France (4) vs. Yugoslavia (5), held on July 6, 1960, remains the match with the most goals scored in regular time"
+  title="France vs. Yugoslavia, held in 1960, is the match with the most goals scored*"
   xAxis="match"
   yAxis="goals_scored"
 />
+*NOTE: In regular time*
 
 ### Home/away ratio in European Championships matches
 <FlatUiTable
@@ -98,7 +99,7 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
   data={{
     url: 'matches_attendance.csv'
   }}
-  title="Spain vs. the USSR, held on June 21, 1964, on Spanish soil, got the highest attendance ever"
+  title="Spain vs. the USSR, held in 1964, got the highest attendance ever"
   xAxis="match"
   yAxis="attendance"
 />
