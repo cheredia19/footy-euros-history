@@ -45,9 +45,17 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
 />
 *NOTE: Only wins in regular time are taken into consideration. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
 
-### Number of participations in European Championships
+### Number of participations by country in European Championships
+<PlotlyBarChart
+  data={{
+    url: 'total_part_country.csv'
+  }}
+  title="Germany has participated in more UEFA European competitions than anyone"
+  xAxis="country"
+  yAxis="participations"
+/>
 
-### Participations by country in the history of the European Championships
+### Peformance by country in each European Competition
 <FlatUiTable
   data={{
     url: 'countries_euros.csv'    
