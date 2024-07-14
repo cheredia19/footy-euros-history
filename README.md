@@ -45,6 +45,8 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
 />
 *NOTE: Only wins in regular time are taken into consideration. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
 
+Germany has proved to be one of the most consistent countries in world football, and Europe is a privileged witness. The Western European nation said "present" in 14 of the 17 tournaments, followed by Spain (12), France, England, Italy, and the Netherlands, with 12 each.
+
 ### Number of participations by country in European Championships
 <PlotlyBarChart
   data={{
