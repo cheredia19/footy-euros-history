@@ -31,12 +31,11 @@ England reached Italy, Germany, and former Yugoslavia in second place among the 
   yAxis="number"
 />
 
-### Summary of all European Championships
-<FlatUiTable
-  data={{
-    url: 'euros_summary.csv'    
-  }}
-/>
+Spain is the only country with over 50 games played in the competition's history (52). The closest followers are France and Italy. Also, Spain has won the most games (25), followed by the Netherlands (22), and Italy (21).
+
+West Germany played until Euro 1988 when they hosted the competition. [Since the German reunification](https://www.britannica.com/place/Germany/The-reunification-of-Germany), they began playing as Germany in Sweden (1992).
+
+As a single nation, Germany has participated uninterruptedly since 1972 (Belgium). Germans won 28 of 58 games played (a winning rate of 48.3%).
 
 ### Winning rates of countries in European Championships*
 <FlatUiTable
@@ -45,6 +44,13 @@ England reached Italy, Germany, and former Yugoslavia in second place among the 
   }}
 />
 *NOTE: Only wins in regular time are taken into consideration. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
+
+### Summary of all European Championships
+<FlatUiTable
+  data={{
+    url: 'euros_summary.csv'    
+  }}
+/>
 
 ### Participations by country in the history of the European Championships
 <FlatUiTable
