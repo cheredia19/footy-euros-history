@@ -5,6 +5,8 @@ description: 'A detailed data look at the seventeen football European championsh
 modified: '2024-07-14'
 ---
 
+*By [César Heredia](https://x.com/cahered), data journalist*
+
 The victory of Spain over England by 2-1 closes another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other seven nations have won it once each.
 
 ### Winners of European Championships
@@ -81,6 +83,8 @@ The second team expansion happened in Euro 1996. England hosted one of the most 
 A definition by a Golden Goal occurred again in the final of Euro 2000, hosted by Belgium and the Netherlands. That time was David Trezeguet with a magic volley that defeated goalkeeper Francesco Toldo and Italy by 2-1, sinking the dreams of the *azzurri*.
 
 Portugal 2004 was wild. The hosts, packed with a loaded team that included Rui Costa, Luis Figo, Nuno Gomes, Ricardo Carvalho, and a debutant called Cristiano Ronaldo, was one of the favorites. But a German tactician called Otto Rehhagel and his team Greece defied the odds and defeated Portugal twice, in the Group Phase, and in the final.
+
+Euro 2008 marked the second time that two countries (Austria and Switzerland) cohosted the competition. Spain, with the FC Barcelona-branded *tiki-taka* and directed by Luis Aragonés, defeated Germany by 1-0 with a goal from Fernando *el niño* Torres to seal the second Euro championship for the Spaniards.
 
 ### Summary of all European Championships
 <FlatUiTable
