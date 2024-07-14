@@ -1,18 +1,13 @@
 ---
-title: 'The history of football euros'
+title: 'UEFA European Championships in figures'
 author: 'César Heredia, data journalist'
-description: 'A detailed look at the seventeen euros held since 1960'
-modified: '2024-07-10'
+description: 'A detailed data look at the seventeen football European championships held since 1960'
+modified: '2024-07-14'
 files: ['euro_countries.csv','euros_summary.csv','countries_euros.csv','euro_winners.csv','matches.csv','runner_ups.csv','win_rate_country.csv']
 group: 'Sports'
 ---
 
-### Summary of all European Championships
-<FlatUiTable
-  data={{
-    url: 'euros_summary.csv'    
-  }}
-/>
+The victory of Spain over England by 2-1 closes another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other seven nations have won it once each.
 
 ### Winners of European Championships
 <PlotlyBarChart
@@ -24,6 +19,8 @@ group: 'Sports'
   yAxis="championships"
 />
 
+England reached Italy, Germany, and former Yugoslavia in second place among the countries with the most runner-up finishes. The former USSR leads that figure, with three.
+
 ### Runner-ups of European Championships
 <PlotlyBarChart
   data={{
@@ -32,6 +29,13 @@ group: 'Sports'
   title="The USSR is the only country with three runner-up finishes"
   xAxis="runner_up"
   yAxis="number"
+/>
+
+### Summary of all European Championships
+<FlatUiTable
+  data={{
+    url: 'euros_summary.csv'    
+  }}
 />
 
 ### Winning rates of countries in European Championships*
