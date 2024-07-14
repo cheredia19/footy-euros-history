@@ -80,3 +80,7 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
 ### Home team winning ratio
 
 ### Away team winning ratio
+
+### Vega chart
+
+### Goals by match
