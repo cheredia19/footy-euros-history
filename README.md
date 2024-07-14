@@ -112,6 +112,7 @@ Nine hundred and thirty-six goals have been converted in 388 games in the Europe
 />
 *NOTE: In regular time*
 
+Forty-eight red cards have been delivered by referees during the competitions. Belgium-Netherlands 2000 and England 1996 are the competitions where most players were penalized with eight and seven, respectively. Five tournaments didn't register any red cards, the last time that happened was in Sweden 1992, according to the data.
 
 ### All matches of the European Championships
 <FlatUiTable
