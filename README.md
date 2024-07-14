@@ -99,12 +99,7 @@ Below is a summary of the seventeen European competitions to date.
   }}
 />
 
-### All matches of the European Championships
-<FlatUiTable
-  data={{
-    url: 'matches.csv'    
-  }}
-/>
+Nine hundred and thirty-six goals have been converted in 388 games in the European competitions, a media of 2.4 goals per match. The most prolific game occurred in 1964 when France and Yugoslavia entertained the 26,370 attendees with nine goals. There have been 77 draws in the history of Euros, in thirty-six times of those matches there were no annotations.
 
 ### Goals scored by match in European Championships
 <PlotlyLineChart
@@ -116,6 +111,14 @@ Below is a summary of the seventeen European competitions to date.
   yAxis="goals_scored"
 />
 *NOTE: In regular time*
+
+
+### All matches of the European Championships
+<FlatUiTable
+  data={{
+    url: 'matches.csv'    
+  }}
+/>
 
 ## Curiosities
 
