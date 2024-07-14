@@ -69,11 +69,11 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
 />
 
 ### Goals scored by match in European Championships
-<PlotlyBarChart
+<PlotlyLineChart
   data={{
     url: 'goals_by_match.csv'
   }}
-  title=""
+  title="France (4) vs. Yugoslavia (5), held on July 6, 1960, remains the match with the most goals scored in regular time in European Championships history"
   xAxis="match"
   yAxis="goals_scored"
 />
