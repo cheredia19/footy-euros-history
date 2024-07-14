@@ -129,10 +129,6 @@ Forty-eight red cards have been delivered by referees during the competitions. B
   }}
 />
 
-### Home team winning ratio
-
-### Away team winning ratio
-
 ### Matches regular/drawn/golden/silver/penalties
 
 ### Historic table updated
