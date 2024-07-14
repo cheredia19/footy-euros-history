@@ -72,7 +72,11 @@ In the following table, you can check the participation and the performance **of
 
 The first UEFA Euro Championship was held for the first time in France, from June 7 to June 10, 1960. There were only four teams (Czechoslovakia, France, Yugoslavia, and the USSR). Four matches were played: two semifinals, the game for the third place, and the final. The USSR defeated Yugoslavia in aggregated extra time by 2-1, making them the first-ever European champions.
 
-The semifinal-third place match-final format continued until 1976 when Euro was held in the extint Yugoslavia. Czechoslovakia won their first and only Euro, defeating West Germany on penalties with a [game-winning penalty from Antonin Panenka](https://youtu.be/ROG4-QPIDgo?feature=shared&t=101) that made history by creating a new style of kicking penalties, imitated by the likes of Francesco Totti, Zinedine Zidane, and Andrea Pirlo, among others.
+The four-team format continued until 1976 when Euro was held in the extint Yugoslavia. Czechoslovakia won their first and only Euro, defeating West Germany on penalties with a [game-winning penalty from Antonin Panenka](https://youtu.be/ROG4-QPIDgo?feature=shared&t=101) that made history by creating a new style of kicking from the spot, imitated by the likes of Francesco Totti, Zinedine Zidane, and Andrea Pirlo, among others.
+
+Euro 1980 brought **the first expansion of participating teams by increasing the number to eight**. Also, Italy 1980 was the last time that a match for third place was played. Czechoslovakia became the last official third place in European competitions by beating the hosts on penalties. West Germany defeated Belgium by 2-1 in front of 47,860 spectators at the Stadio Olimpico in Rome. It was the second title for the Germans.
+
+From 1984 to 1992, there were three new champions: France, the Netherlands, and Denmark. France was the only host to win a European competition. Four years later, the Netherlands beat the USSR 2-0, winning the only major tournament in its history, while Denmark, despite not originally qualifying (it entered because [Yugoslavia was banned from the competition due to the attacks on Bosnia and Herzegovina](https://www.upi.com/Archives/1992/05/31/Yugoslavia-barred-from-European-Championships/3160707284800/)), defeated Germany 2-0, winning its greatest soccer achievement to date.
 
 ### Summary of all European Championships
 <FlatUiTable
@@ -111,6 +115,8 @@ The semifinal-third place match-final format continued until 1976 when Euro was 
 ### Home team winning ratio
 
 ### Away team winning ratio
+
+### Matches regular/drawn/golden/silver/penalties
 
 ### Historic table updated
 
