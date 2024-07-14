@@ -68,6 +68,17 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
   }}
 />
 
+### Goals scored by match in European Championships
+<PlotlyBarChart
+  data={{
+    url: 'goals_by_match.csv'
+  }}
+  title=""
+  xAxis="match"
+  yAxis="goals_scored"
+/>
+
+
 ### Home/away ratio in European Championships matches
 <FlatUiTable
   data={{
