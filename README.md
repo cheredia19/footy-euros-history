@@ -7,7 +7,7 @@ modified: '2024-07-14'
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
-The victory of Spain over England by 2-1 closes another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other seven nations have won it once each.
+The victory of Spain over England by 2-1 closed another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other seven nations have won it once each.
 
 ### Winners of European Championships
 <PlotlyBarChart
@@ -84,7 +84,13 @@ A definition by a Golden Goal occurred again in the final of Euro 2000, hosted b
 
 Portugal 2004 was wild. The hosts, packed with a loaded team that included Rui Costa, Luis Figo, Nuno Gomes, Ricardo Carvalho, and a debutant called Cristiano Ronaldo, was one of the favorites. But a German tactician called Otto Rehhagel and his team Greece defied the odds and defeated Portugal twice, in the Group Phase, and in the final.
 
-Euro 2008 marked the second time that two countries (Austria and Switzerland) cohosted the competition. Spain, with the FC Barcelona-branded *tiki-taka* and directed by Luis Aragonés, defeated Germany by 1-0 with a goal from Fernando *el niño* Torres to seal the second Euro championship for the Spaniards.
+Euro 2008 marked the second time that two countries (Austria and Switzerland) cohosted the competition. Spain, with the FC Barcelona-branded *tiki-taka* and directed by Luis Aragonés, defeated Germany by 1-0 with a goal from Fernando *'el niño'* Torres to seal the second Euro championship for the Spaniards.
+
+Spain cemented the domination of European (and world) football in Euro 2012, held in Poland and Ukraine. That time, under Vicente Del Bosque, crushed Cesare Prandelli's Italy by 4-0 in Kiev, earning their third continental title and second in a row.
+
+The number of teams were expanded to 24 in the UEFA Euro 2016. As a consequence, a Round of 16 stage was played in the tournament for the first time. For context, 24 teams disputed the Football World Cup from 1982 to 1994. Portugal defeated the hosts France by 1-0 with a goal in aggregated extra time to reach their first and only European championship.
+
+
 
 ### Summary of all European Championships
 <FlatUiTable
