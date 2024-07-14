@@ -3,8 +3,6 @@ title: 'UEFA European Championships in figures'
 author: 'César Heredia, data journalist'
 description: 'A detailed data look at the seventeen football European championships held since 1960'
 modified: '2024-07-14'
-files: ['euro_countries.csv','euros_summary.csv','countries_euros.csv','euro_winners.csv','matches.csv','runner_ups.csv','win_rate_country.csv']
-group: 'Sports'
 ---
 
 The victory of Spain over England by 2-1 closes another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other seven nations have won it once each.
@@ -78,7 +76,11 @@ Euro 1980 brought **the first expansion of participating teams by increasing the
 
 From France 1984 to Sweden 1992, there were three new champions: France, the Netherlands, and Denmark. **Platini's France was the last host to win a European competition**. Four years later, the Netherlands, led by legendary Rinus Michels, beat the USSR 2-0, winning the only major tournament in its history, while Denmark, despite not originally qualifying (it entered because [Yugoslavia was banned from the competition due to the attacks on Bosnia and Herzegovina](https://www.upi.com/Archives/1992/05/31/Yugoslavia-barred-from-European-Championships/3160707284800/)), defeated Germany 2-0, winning its greatest soccer achievement to date.
 
-The second team expansion happened in Euro 1996. England hosted one of the most memorable competitions with 16 teams battling in 31 games. But, unfortunately for the English, the cup "did not come home". As striker Gary Lineker once famously said, football is a sport where **22 men chase a ball for 90 minutes, and in the end, the Germans always win.** That was exactly what happened 28 years ago when Gareth Southgate, the current England tactician, [failed from the spot against Germany in the semifinals](https://www.telegraph.co.uk/news/2021/07/11/dont-cry-england-inside-story-gareth-southgate-felt-euro-96/). Eventually, the Germans defeated the Czech Republic by 2-1 at the old Wembley stadium with a golden goal from Oliver Bierhoff, the first of its kind in the history of the European Championships.
+The second team expansion happened in Euro 1996. England hosted one of the most memorable competitions with 16 teams battling in 31 games. But, unfortunately for the English, the cup "did not come home". As striker Gary Lineker once famously said, football is a sport where **22 men chase a ball for 90 minutes, and in the end, the Germans always win.** That was exactly what happened 28 years ago when Gareth Southgate, the current England tactician, [failed from the spot against Germany in the semifinals](https://www.telegraph.co.uk/news/2021/07/11/dont-cry-england-inside-story-gareth-southgate-felt-euro-96/). Eventually, the Germans defeated the Czech Republic by 2-1 at the old Wembley stadium with a Golden Goal from Oliver Bierhoff, the first of its kind in the history of the European Championships.
+
+A definition by a Golden Goal occurred again in the final of Euro 2000, hosted by Belgium and the Netherlands. That time was David Trezeguet with a magic volley that defeated goalkeeper Francesco Toldo and Italy by 2-1, sinking the dreams of the *azzurri*.
+
+Portugal 2004 was wild. The hosts, packed with a loaded team that included Rui Costa, Luis Figo, Nuno Gomes, Ricardo Carvalho, and a debutant called Cristiano Ronaldo, was one of the favorites. But a German tactician called Otto Rehhagel and his team Greece defied the odds and defeated Portugal twice, in the Group Phase, and in the final.
 
 ### Summary of all European Championships
 <FlatUiTable
