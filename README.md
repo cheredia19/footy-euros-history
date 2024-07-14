@@ -90,9 +90,8 @@ Spain cemented the domination of European (and world) football in Euro 2012, hel
 
 Euro 2020 was a special tournament for many reasons: it developed in the middle of a pandemic, had multiple venues in 11 European countries, and was held in the summer of 2021 due to the restrictions related to COVID-19. Italy reached its second championship by defeating England in Wembley in a tense penalty shootout.
 
-Below is a summary of the seventeen European competitions to date.
+Below is a summary of the seventeen European competitions to date:
 
-### All the European Championships
 <FlatUiTable
   data={{
     url: 'euros_summary.csv'    
