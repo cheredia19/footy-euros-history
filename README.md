@@ -1,8 +1,6 @@
 ---
 title: 'UEFA European Championships in figures'
-author: 'César Heredia, data journalist'
 description: 'A detailed data look at the seventeen football European championships held since 1960'
-modified: '2024-07-14'
 ---
 
 *By [César Heredia](https://x.com/cahered), data journalist*
@@ -88,11 +86,13 @@ Euro 2008 marked the second time that two countries (Austria and Switzerland) co
 
 Spain cemented the domination of European (and world) football in Euro 2012, held in Poland and Ukraine. That time, under Vicente Del Bosque, crushed Cesare Prandelli's Italy by 4-0 in Kiev, earning their third continental title and second in a row.
 
-The number of teams were expanded to 24 in the UEFA Euro 2016. As a consequence, a Round of 16 stage was played in the tournament for the first time. For context, 24 teams disputed the Football World Cup from 1982 to 1994. Portugal defeated the hosts France by 1-0 with a goal in aggregated extra time to reach their first and only European championship.
+**The number of teams were expanded to 24 in the UEFA Euro 2016**. As a consequence, a Round of 16 stage was played in the tournament for the first time. For context, 24 teams disputed the Football World Cup from 1982 to 1994. 51 games were played. Portugal defeated the hosts France by 1-0 with a goal in aggregated extra time to reach their first and only European championship.
 
+Euro 2020 was a special tournament for many reasons: it developed in the middle of a pandemic, had multiple venues in 11 European countries, and was held in the summer of 2021 due to the restrictions related to COVID-19. Italy reached its second championship by defeating England in Wembley in a tense penalty shootout.
 
+Below is a summary of the seventeen European competitions to date.
 
-### Summary of all European Championships
+### All the European Championships
 <FlatUiTable
   data={{
     url: 'euros_summary.csv'    
