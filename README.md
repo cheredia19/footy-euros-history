@@ -68,6 +68,12 @@ In the following table, you can check the participation and the performance **of
   }}
 />
 
+## A glimpse of the seventeen UEFA Euro competitions
+
+The first UEFA Euro Championship was held for the first time in France, from June 7 to June 10, 1960. There were only four teams (Czechoslovakia, France, Yugoslavia, and the USSR). Four matches were played: two semifinals, the game for the third place, and the final. The USSR defeated Yugoslavia in aggregated extra time by 2-1, making them the first-ever European champions.
+
+The semifinal-third place match-final format continued until 1976 when Euro was held in the extint Yugoslavia. Czechoslovakia won their first and only Euro, defeating West Germany on penalties with a [game-winning penalty from Antonin Panenka](https://youtu.be/ROG4-QPIDgo?feature=shared&t=101) that made history by creating a new style of kicking penalties, imitated by the likes of Francesco Totti, Zinedine Zidane, and Andrea Pirlo, among others.
+
 ### Summary of all European Championships
 <FlatUiTable
   data={{
@@ -92,6 +98,8 @@ In the following table, you can check the participation and the performance **of
   yAxis="goals_scored"
 />
 *NOTE: In regular time*
+
+## Curiosities
 
 ### Home/away ratio in European Championships matches
 <FlatUiTable
