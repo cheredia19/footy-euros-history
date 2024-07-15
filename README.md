@@ -17,14 +17,14 @@ The victory of Spain over England by 2-1 closed another fascinating chapter of t
   yAxis="championships"
 />
 
-England reached Italy, Germany, and former Yugoslavia in second place among the countries with the most runner-up finishes. The former USSR leads that figure, with three.
+England reached Italy, and former Yugoslavia in second place among the countries with the most runner-up finishes. The former USSR and Germany lead that figure, with three.
 
 ### Runner-ups of European Championships
 <PlotlyBarChart
   data={{
-    url: 'runner_ups.csv'
+    url: 'runnerups.csv'
   }}
-  title="The USSR is the only country with three runner-up finishes"
+  title="Two runner-up finishes in a row for England put them in second place"
   xAxis="runner_up"
   yAxis="number"
 />
