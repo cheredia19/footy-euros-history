@@ -102,7 +102,7 @@ Nine hundred and thirty-seven goals have been converted in 388 games in the Euro
 ### Goals scored by match in European Championships
 <PlotlyLineChart
   data={{
-    url: 'goals_by_match.csv'
+    url: 'goals_match.csv'
   }}
   title="France vs. Yugoslavia, held in 1960, is the match with the most goals scored*"
   xAxis="match"
