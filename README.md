@@ -87,7 +87,7 @@ Spain cemented the domination of European (and world) football in Euro 2012, hel
 
 **The number of teams were expanded to 24 in the UEFA Euro 2016**. As a consequence, a Round of 16 stage was played in the tournament for the first time. For context, 24 teams disputed the Football World Cup from 1982 to 1994. 51 games were played. Portugal defeated the hosts France by 1-0 with a goal in aggregated extra time to reach their first and only European championship.
 
-Euro 2020 was a special tournament for many reasons: it developed in the middle of a pandemic, had multiple venues in 11 European countries, and was held in the summer of 2021 due to the restrictions related to COVID-19. Italy reached its second championship by defeating England in Wembley in a tense penalty shootout.
+Euro 2020 was a special tournament for many reasons: it developed in the middle of a pandemic, had multiple venues in 11 countries, and was held in the summer of 2021 due to the restrictions related to COVID-19. **Italy reached its second championship** by defeating England at Wembley in a tense penalty shootout.
 
 Below is a summary of the seventeen European competitions to date:
 
@@ -112,7 +112,8 @@ Nine hundred and thirty-seven goals have been converted in 388 games in the Euro
 
 Forty-eight red cards have been delivered by referees during the competitions. Belgium-Netherlands 2000 and England 1996 are the competitions where most players were penalized with eight and seven, respectively. Five tournaments didn't register any red cards, the last time that happened was in Sweden 1992, according to the data.
 
-### All matches of the European Championships
+Below you will find a synopsis of every UEFA Euro match, from the first game ever between Czechoslovakia and USSR in 1960 to the final played by Spain and England on July 14, 2024:
+
 <FlatUiTable
   data={{
     url: 'all_matches.csv'    
