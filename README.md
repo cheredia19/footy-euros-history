@@ -38,7 +38,7 @@ As a single nation, Germany has participated uninterruptedly since 1972 (Belgium
 ### Winning rates of countries in European Championships*
 <FlatUiTable
   data={{
-    url: 'win_rate_country.csv'    
+    url: 'rate_win_country.csv'    
   }}
 />
 *NOTE: Only wins in regular time are taken into consideration. Wins in aggregated extra time, golden or silver goal, or by penalties are counted as DRAWS*
