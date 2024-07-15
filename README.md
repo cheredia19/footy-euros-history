@@ -115,33 +115,6 @@ Forty-eight red cards have been delivered by referees during the competitions. B
 ### All matches of the European Championships
 <FlatUiTable
   data={{
-    url: 'matches.csv'    
+    url: 'all_matches.csv'    
   }}
 />
-
-## Curiosities
-
-### Home/away ratio in European Championships matches
-<FlatUiTable
-  data={{
-    url: 'home_away_ratio.csv'    
-  }}
-/>
-
-### Matches regular/drawn/golden/silver/penalties
-
-### Historic table updated
-
-### Vega chart*
-
-### Attendance by match since Euro 1960
-<PlotlyBarChart
-  data={{
-    url: 'matches_attendance.csv'
-  }}
-  title="Spain vs. the USSR, held in 1964, got the highest attendance ever"
-  xAxis="match"
-  yAxis="attendance"
-/>
-
-### Attendance by rate (check 1992)
