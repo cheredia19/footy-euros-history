@@ -59,10 +59,9 @@ But how has been the performance of the teams on a tournament-by-tournament basi
 
 In the following table, you can check the participation and the performance **of each country** in European competitions, from France 1960, to Germany 2024. You can filter by position in any edition of the UEFA Euro tournaments.
 
-### Peformance by country in all European Competitions
 <FlatUiTable
   data={{
-    url: 'countries_euros.csv'    
+    url: 'countries_euro.csv'
   }}
 />
 
