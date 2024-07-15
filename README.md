@@ -19,12 +19,12 @@ The victory of Spain over England by 2-1 closed another fascinating chapter of t
 
 England reached Italy, and former Yugoslavia in second place among the countries with the most runner-up finishes. The former USSR and Germany lead that figure, with three.
 
-### Runner-ups of European Championships
+### Two in a row
 <PlotlyBarChart
   data={{
     url: 'runnerups.csv'
   }}
-  title="Two runner-up finishes in a row for England put them in second place"
+  title="Two runner-up finishes for England in 2020 and 2024 put them in second place"
   xAxis="runner_up"
   yAxis="number"
 />
