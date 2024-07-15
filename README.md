@@ -5,14 +5,14 @@ description: 'A detailed data look at the seventeen football European championsh
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
-The victory of Spain over England by 2-1 closed another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other seven nations have won it once each.
+The victory of Spain over England by 2-1 closed another fascinating chapter of the UEFA European Competitions. It represents the fourth championship for the Spaniards, overtaking Germany as the most winning team in the Euro's history. France and Italy complete the list of countries with more than one European championship, while other six nations have won it once each.
 
 ### The kings of Europe
 <PlotlyBarChart
   data={{
     url: 'winners.csv'
   }}
-  title="Spain surpassed Germany as the most winning country in UEFA European competitions"
+  title="Spain surpassed Germany as the most winning country"
   xAxis="winner"
   yAxis="championships"
 />
